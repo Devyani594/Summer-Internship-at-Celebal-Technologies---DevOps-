@@ -1,5 +1,5 @@
 # Summer-Internship-at-Celebal-Technologies-DevOps
-Welcome to the repository for my Summer Internship at Celebal Technologies. This repository contains all my work and assignments for Week 1, which focuses on DevOps.
+#Welcome to the repository for my Summer Internship at Celebal Technologies. This repository contains all my work and assignments for Week 1, which focuses on DevOps.
 
 
 📅 Week 1: DevOps
