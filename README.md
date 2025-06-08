@@ -2,12 +2,12 @@
 #Welcome to the repository for my Summer Internship at Celebal Technologies. This repository contains all my work and assignments for Week 1, which focuses on DevOps.
 
 
-📅 Week 1: DevOps
-📚 Topics Covered:
-🔍 What is DevOps?
-Introduction to DevOps
-History and evolution of DevOps
-Key concepts and terminology
+#📅 Week 1: DevOps
+#📚 Topics Covered:
+#🔍 What is DevOps?
+#Introduction to DevOps
+#History and evolution of DevOps
+#Key concepts and terminology
 
 
 🚀 The Need for DevOps
